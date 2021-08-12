@@ -1,0 +1,7 @@
+C:\Users\asshole\Desktop\tasktwoQ2\bin\Debug\tasktwoQ2.exe.config
+C:\Users\asshole\Desktop\tasktwoQ2\bin\Debug\tasktwoQ2.exe
+C:\Users\asshole\Desktop\tasktwoQ2\bin\Debug\tasktwoQ2.pdb
+C:\Users\asshole\Desktop\tasktwoQ2\obj\Debug\tasktwoQ2.csproj.AssemblyReference.cache
+C:\Users\asshole\Desktop\tasktwoQ2\obj\Debug\tasktwoQ2.csproj.CoreCompileInputs.cache
+C:\Users\asshole\Desktop\tasktwoQ2\obj\Debug\tasktwoQ2.exe
+C:\Users\asshole\Desktop\tasktwoQ2\obj\Debug\tasktwoQ2.pdb
